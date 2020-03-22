@@ -12,6 +12,7 @@
         <module>FlyweightPattern</module>
         <module>CommandPattern</module>
         <module>TemplateModel</module>
+        <module>ChainModel</module>
     </modules>
 
 
