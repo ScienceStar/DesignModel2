@@ -16,7 +16,8 @@ import waiter.Waiter;
 public class CookingCommand {
     public static void main(String[] args) {
         Breakfast food1 = new ChangFen();
-        Breakfast food2 = new HunTun();
+        Breakfast food2 = new HunTun()
+                ;
         Breakfast food3 = new HeFen();
         Waiter fwy = new Waiter();
         fwy.setChangFen(food1);//设置肠粉菜单
