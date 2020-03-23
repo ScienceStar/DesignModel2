@@ -16,6 +16,7 @@
         <module>MediatorModel</module>
         <module>IteratorPattern</module>
         <module>VistorModel</module>
+        <module>Memmento</module>
     </modules>
 
 

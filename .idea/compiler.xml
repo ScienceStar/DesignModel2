@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="CommandPattern" />
         <module name="IteratorPattern" />
+        <module name="Memmento" />
         <module name="ChainModel" />
         <module name="TemplateModel" />
         <module name="VistorModel" />
@@ -22,6 +23,7 @@
       <module name="FlyweightPattern" target="1.5" />
       <module name="IteratorPattern" target="6" />
       <module name="MediatorModel" target="1.5" />
+      <module name="Memmento" target="1.5" />
       <module name="TemplateModel" target="1.5" />
       <module name="VistorModel" target="1.5" />
     </bytecodeTargetLevel>

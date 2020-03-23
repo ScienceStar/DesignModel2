@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/FlyweightPattern/FlyweightPattern.iml" filepath="$PROJECT_DIR$/FlyweightPattern/FlyweightPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/IteratorPattern/IteratorPattern.iml" filepath="$PROJECT_DIR$/IteratorPattern/IteratorPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/MediatorModel/MediatorModel.iml" filepath="$PROJECT_DIR$/MediatorModel/MediatorModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Memmento/Memmento.iml" filepath="$PROJECT_DIR$/Memmento/Memmento.iml" />
       <module fileurl="file://$PROJECT_DIR$/TemplateModel/TemplateModel.iml" filepath="$PROJECT_DIR$/TemplateModel/TemplateModel.iml" />
       <module fileurl="file://$PROJECT_DIR$/VistorModel/VistorModel.iml" filepath="$PROJECT_DIR$/VistorModel/VistorModel.iml" />
     </modules>
