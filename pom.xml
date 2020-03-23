@@ -13,6 +13,7 @@
         <module>CommandPattern</module>
         <module>TemplateModel</module>
         <module>ChainModel</module>
+        <module>MediatorModel</module>
     </modules>
 
 
