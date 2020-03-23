@@ -17,6 +17,7 @@
         <module>IteratorPattern</module>
         <module>VistorModel</module>
         <module>Memmento</module>
+        <module>InterpreterPattern</module>
     </modules>
 
 
