@@ -10,6 +10,15 @@ import hand.intel.Handler;
  * @Version V1.0
  **/
 public class ConcreteHandler1 extends Handler {
+    
+    /**
+     * @description: TODO
+     * @param [request]
+     * @return void 
+     * @throws 
+     * @author lxc
+     * @date 2020/3/23 17:38
+     */
     @Override
     public void handleRequest(String request) {
         if (request.equals("one")) {

@@ -7,13 +7,23 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="CommandPattern" />
+        <module name="IteratorPattern" />
+        <module name="ChainModel" />
+        <module name="TemplateModel" />
+        <module name="VistorModel" />
         <module name="FlyweightPattern" />
+        <module name="MediatorModel" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ChainModel" target="1.5" />
       <module name="CommandPattern" target="1.5" />
       <module name="DesignModel2" target="1.5" />
       <module name="FlyweightPattern" target="1.5" />
+      <module name="IteratorPattern" target="6" />
+      <module name="MediatorModel" target="1.5" />
+      <module name="TemplateModel" target="1.5" />
+      <module name="VistorModel" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

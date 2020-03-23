@@ -15,6 +15,7 @@
         <module>ChainModel</module>
         <module>MediatorModel</module>
         <module>IteratorPattern</module>
+        <module>VistorModel</module>
     </modules>
 
 
